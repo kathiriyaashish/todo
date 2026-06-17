@@ -1,5 +1,20 @@
-<!-- BEGIN:nextjs-agent-rules -->
-# This is NOT the Next.js you know
+# AI Usage Report
 
-This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
-<!-- END:nextjs-agent-rules -->
+This project was developed with assistance from AI tools like ChatGPT.
+
+## How AI was used:
+
+- Helped design project structure (Next.js + Node.js architecture)
+- Assisted in creating REST API endpoints debugging
+- Helped debug errors in frontend and backend integration
+- Generated README.md and documentation templates
+- 
+## What was NOT AI-generated:
+
+- Final project logic implementation
+- Personal customization and UI decisions
+- Manual testing and deployment configuration
+
+---
+
+AI was used as a learning and development assistant to improve productivity and code quality.
